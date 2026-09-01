@@ -2,6 +2,8 @@
 
 A native macOS dock and multi-account wrapper for [WhatsApp Web](https://web.whatsapp.com) built using Swift, SwiftUI, and WebKit (`WKWebView`).
 
+![WhatsApp Web Dock Application Preview](docs/screenshots/app_preview.jpg)
+
 ---
 
 ## Features
